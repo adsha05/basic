@@ -29,7 +29,6 @@ All components are implemented from first principles using only PyTorch (no exte
 
 To run the model:
 
-git clone https://github.com/your-username/transformer-from-scratch.git
 cd transformer-from-scratch
 pip install -r requirements.txt
 python train.py
